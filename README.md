@@ -18,11 +18,9 @@ O projeto consiste em uma página web que exibe um cartão de produto de perfume
 - 💰 Um preço, com um preço de venda e um preço riscado.
 - 🛒 Um botão "Adicionar ao Carrinho" com um ícone de carrinho.
 
-![image](https://github.com/vmC0sta/card-review-produto/assets/116650361/d5d74dd8-753a-474e-9218-c3aae3ab9487)
+  ![image](https://github.com/vmC0sta/card-review-produto/assets/116650361/d5d74dd8-753a-474e-9218-c3aae3ab9487)
 
-![image](https://github.com/vmC0sta/card-review-produto/assets/116650361/38f679d9-dc2e-48a0-958b-5a2bbee7fe9c)
-
-
+  ![image](https://github.com/vmC0sta/card-review-produto/assets/116650361/38f679d9-dc2e-48a0-958b-5a2bbee7fe9c)
 
 ## 🎨 Estilo
 
@@ -34,7 +32,7 @@ O projeto é responsivo e faz uso de consultas de mídia (`@media queries`) para
 
 ### 🔗 Links
 
-- Live Site URL: [https://vmc0sta.github.io/card-review-produto/]([https://vmc0sta.github.io/card-review-produto/])
+- Live Site URL: [https://vmc0sta.github.io/card-review-produto/](https://vmc0sta.github.io/card-review-produto/)
 
 ## 👩‍💻 Autor
 
